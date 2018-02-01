@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{8601CF69-ABE2-424A-B7A7-0EA96DA771D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitAsync", "AwaitAsync\AwaitAsync.csproj", "{C32BFC0E-806E-4D15-8633-72A23C6C5D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncEmail", "AsyncEmail\AsyncEmail.csproj", "{A5D6206C-5056-469E-9AF1-5F566AB6E563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8601CF69-ABE2-424A-B7A7-0EA96DA771D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8601CF69-ABE2-424A-B7A7-0EA96DA771D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8601CF69-ABE2-424A-B7A7-0EA96DA771D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8601CF69-ABE2-424A-B7A7-0EA96DA771D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32BFC0E-806E-4D15-8633-72A23C6C5D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32BFC0E-806E-4D15-8633-72A23C6C5D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32BFC0E-806E-4D15-8633-72A23C6C5D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32BFC0E-806E-4D15-8633-72A23C6C5D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D6206C-5056-469E-9AF1-5F566AB6E563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D6206C-5056-469E-9AF1-5F566AB6E563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D6206C-5056-469E-9AF1-5F566AB6E563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D6206C-5056-469E-9AF1-5F566AB6E563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\hhong\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\hhong\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+C:\Users\hhong\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+C:\Users\hhong\documents\visual studio 2013\Projects\test\test\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\hhong\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+C:\Users\hhong\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+C:\Users\hhong\Projects\ASP.Net_Project\Reference_Project\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\hhong\Projects\ASP.Net_Project\Reference_Project\Reflection\bin\Debug\Reflection.exe
+C:\Users\hhong\Projects\ASP.Net_Project\Reference_Project\Reflection\bin\Debug\Reflection.pdb
+C:\Users\hhong\Projects\ASP.Net_Project\Reference_Project\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\hhong\Projects\ASP.Net_Project\Reference_Project\Reflection\obj\Debug\Reflection.exe
+C:\Users\hhong\Projects\ASP.Net_Project\Reference_Project\Reflection\obj\Debug\Reflection.pdb

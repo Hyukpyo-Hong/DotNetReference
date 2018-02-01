@@ -1,0 +1,12 @@
+upen,Company,EE_Number,FName,LName,Client_Assignment,Employment_Category,Employment_Status,Termination_Date,Hourly_Rate,MTD_Productive_Hours_Paid,MTD_Non_Productive_Hours_Paid,MTD_Total_Earnings_Paid,MTD_ER_Tax,MTD_ER_Cost_of_Benefits,Begin__Date,End_Date,Full_Name
+,Pharmacentra LLC,1234,Ftester1,Ltester1,dummy,Part Time,Active,,100,72.72,0,100,100,,6/25/2017,7/22/2017,xxxxxxxxxx
+,Pharmacentra LLC,1235,Ftester2,Ltester2,dummy,Part Time,Active,,100,73.45,0,100,100,,6/25/2017,7/22/2017,xxxxxxxxxx
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
